@@ -1,0 +1,15 @@
+base
+Matrix
+devtools
+slidify
+zoo
+xts
+TTR
+quantmod
+shiny
+RQuantLib
+slidifyLibraries
+XML
+rCharts
+reshape2
+knitr
